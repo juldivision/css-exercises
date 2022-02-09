@@ -1,0 +1,18 @@
+p{
+    background-color: rgb(240, 164, 164);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.number2{
+    color: rgb(47, 47, 168);
+    font-size: 36px;
+}
+
+.number3 .number4{
+    font-size: 24px;
+}
+
+.number4{
+    background-color: rgb(188, 228, 188);
+    font-weight: bold;
+}
